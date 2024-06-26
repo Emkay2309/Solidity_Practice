@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getCompanyName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Company.sol": "Company"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Company.sol": {
+			"keccak256": "0x3c5c44906c16f1abd162e145320cc38ebc1a1238cef92dfec1803dd9923214b1",
+			"urls": [
+				"bzz-raw://783e0af059d55998261adbc6d511272bad2dafb792af9ef75adb6923488265af",
+				"dweb:/ipfs/QmcVNTKuA8DEpvozRkU7S2fC2jFVCo2ucqBkrCpPfJ2Zf4"
+			]
+		}
+	},
+	"version": 1
+}
